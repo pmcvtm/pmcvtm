@@ -17,9 +17,10 @@ Some assorted things about me:
 - :cowboy_hat_face: :house_with_garden: I am from and live in Austin, TX
 - :cool: :call_me_hand: I like hanging out with my pals, both old or newly made
 
-For work, I am a principal consultant, technical lead and people manager at [Headspring](https://headspring.com).
+For work, I am an engineering manager at [Headspring](https://headspring.com) part of Accenture's [Product and Platform Engineering Services](https://www.accenture.com/us-en/services/software-engineering/product-platform-engineering).
 
 You can find more about me, read stuff I've written, and see things I've made  on my website:
+
 <a href="https://loudandabrasive.com" style="width:100%">
-  <img src="https://loudandabrasive.com/assets/default-card-image.jpg" style="width:100%" alt="Loud and Abrasive .com"/>
+  <img src="https://user-images.githubusercontent.com/1993790/180661817-89507138-c7eb-40ea-ad80-5d91243a7456.png" style="width:100%" alt="Patrick McVeety-Mill: Loud and Abrasive .com"/>
 </a>
