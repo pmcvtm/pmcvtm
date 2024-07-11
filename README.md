@@ -1,9 +1,14 @@
 :wave: Hi, nice to be with you, my name is
 
-### Patrick McVeety-Mill
+# Patrick McVeety-Mill
 
-but you can also call me Boogerbear, Loud Patrick, Patrick M, or McVeety-Mill.
+but some folks call me _Loud Patrick_, _Boogerbear_, or _Hey! You, with the glasses_.
 All of those are with **he / him** pronouns.
+
+I'm an independent **software consultant** and **mentor** from and based out of Austin, TX. <br />
+You can learn more about that at [pmcvtm.com](https://pmcvtm.com), and see my more artistic side at [loudandabrasive.com](https://loudandabrasive.com).
+
+<img src="https://pmcvtm.com/assets/stripes.png" alt="Cool 1970s style colored stripes going across the page" style="width:100%; height:2rem;" />
 
 Some assorted things about me:
 
@@ -14,7 +19,6 @@ Some assorted things about me:
 - :paintbrush: :triangular_ruler: I make art from reclaimed materials
 - :swimmer: :bicyclist: I swim and cycle
 - :knife: :shallow_pan_of_food: I love to cook
-- :cowboy_hat_face: :house_with_garden: I am from and live in Austin, TX
 - :cool: :call_me_hand: I like hanging out with my pals, both old or newly made
 
 For work, I am an engineering manager at [Headspring](https://headspring.com) part of Accenture's [Product and Platform Engineering Services](https://www.accenture.com/us-en/services/software-engineering/product-platform-engineering).
